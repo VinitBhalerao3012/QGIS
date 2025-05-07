@@ -1,0 +1,773 @@
+LSOA code,count,unique,empty,filled,min,max,min_length,max_length,mean_length
+W01001468,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001479,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000991,"7","4","0","7",Other theft,Violence and sexual offences,"11","28",16.5714285714286
+W01000992,"10","3","0","10",Burglary,Violence and sexual offences,"8","28",20.8
+W01000993,"18","6","0","18",Burglary,Violence and sexual offences,"5","28",16.8888888888889
+W01000994,"6","3","0","6",Other crime,Violence and sexual offences,"11","28",22.5
+W01000995,"4","4","0","4",Criminal damage and arson,Violence and sexual offences,"11","28",19
+W01001014,"19","7","0","19",Criminal damage and arson,Violence and sexual offences,"11","28",17
+W01001015,"3","3","0","3",Public order,Violence and sexual offences,"12","28",17.6666666666667
+W01001017,"13","6","0","13",Burglary,Violence and sexual offences,"8","28",16.5384615384615
+W01001018,"7","4","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",19.5714285714286
+W01001020,"7","4","0","7",Other theft,Violence and sexual offences,"11","28",21.1428571428571
+W01000976,"5","3","0","5",Burglary,Violence and sexual offences,"8","28",22.2
+W01000977,"8","5","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",19.25
+W01001024,"3","3","0","3",Public order,Violence and sexual offences,"12","28",17.6666666666667
+W01001025,"4","2","0","4",Criminal damage and arson,Violence and sexual offences,"25","28",27.25
+W01001033,"5","1","0","5",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001034,"5","2","0","5",Public order,Violence and sexual offences,"12","28",24.8
+W01000975,"6","3","0","6",Criminal damage and arson,Violence and sexual offences,"12","28",22.1666666666667
+W01000978,"4","3","0","4",Criminal damage and arson,Violence and sexual offences,"11","28",23
+W01001009,"3","2","0","3",Criminal damage and arson,Violence and sexual offences,"25","28",27
+W01001042,"5","2","0","5",Other theft,Violence and sexual offences,"11","28",21.2
+W01001043,"5","3","0","5",Other theft,Violence and sexual offences,"11","28",21.6
+W01001012,"6","3","0","6",Criminal damage and arson,Violence and sexual offences,"13","28",17.5
+W01001013,"3","3","0","3",Burglary,Violence and sexual offences,"8","28",16
+W01001016,"2","2","0","2",Public order,Violence and sexual offences,"12","28",20
+W01001019,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000974,"9","6","0","9",Burglary,Violence and sexual offences,"8","28",18.4444444444444
+W01001057,"26","7","0","26",Burglary,Violence and sexual offences,"5","28",22.3846153846154
+W01001058,"4","3","0","4",Public order,Violence and sexual offences,"12","28",20.25
+W01000986,"6","3","0","6",Criminal damage and arson,Violence and sexual offences,"12","28",24.8333333333333
+W01000987,"18","6","0","18",Burglary,Violence and sexual offences,"8","28",19.7222222222222
+W01001055,"8","3","0","8",Other crime,Violence and sexual offences,"11","28",23.75
+W01001056,"5","3","0","5",Public order,Violence and sexual offences,"11","28",18.2
+W01000996,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001048,"10","5","0","10",Burglary,Violence and sexual offences,"8","28",21
+W01001049,"9","4","0","9",Burglary,Violence and sexual offences,"8","28",23.5555555555556
+W01001050,"17","7","0","17",Criminal damage and arson,Violence and sexual offences,"11","28",20.5882352941176
+W01001051,"19","5","0","19",Criminal damage and arson,Violence and sexual offences,"11","28",23.3157894736842
+W01001052,"4","4","0","4",Other theft,Violence and sexual offences,"11","28",15.75
+W01001004,"13","5","0","13",Criminal damage and arson,Violence and sexual offences,"11","28",17.5384615384615
+W01001005,"6","3","0","6",Other theft,Violence and sexual offences,"11","28",22.5
+W01001006,"5","3","0","5",Other crime,Violence and sexual offences,"11","28",18.2
+W01001007,"11","4","0","11",Criminal damage and arson,Violence and sexual offences,"11","28",22.9090909090909
+W01001040,"3","2","0","3",Drugs,Violence and sexual offences,"5","28",20.3333333333333
+W01000999,"5","4","0","5",Criminal damage and arson,Violence and sexual offences,"11","28",20.8
+W01001000,"19","6","0","19",Burglary,Violence and sexual offences,"7","28",24.0526315789474
+W01001001,"5","3","0","5",Public order,Violence and sexual offences,"11","28",18
+W01001002,"20","5","0","20",Criminal damage and arson,Violence and sexual offences,"11","28",21.95
+W01001008,"6","3","0","6",Public order,Violence and sexual offences,"11","28",16.8333333333333
+W01001038,"21","6","0","21",Criminal damage and arson,Violence and sexual offences,"11","28",24.6190476190476
+W01000997,"6","1","0","6",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001010,"9","4","0","9",Other crime,Violence and sexual offences,"11","28",20.5555555555556
+W01001026,"10","4","0","10",Bicycle theft,Violence and sexual offences,"11","28",24.2
+W01000989,"1","1","0","1",Public order,Public order,"12","12",12
+W01001037,"24","4","0","24",Criminal damage and arson,Violence and sexual offences,"11","28",20.0833333333333
+W01001041,"7","3","0","7",Other theft,Violence and sexual offences,"11","28",23.2857142857143
+W01001021,"63","11","0","63",Criminal damage and arson,Violence and sexual offences,"5","28",18.6666666666667
+W01001022,"10","5","0","10",Drugs,Violence and sexual offences,"5","28",19.3
+W01001023,"10","7","0","10",Criminal damage and arson,Violence and sexual offences,"5","28",18.6
+W01001028,"8","5","0","8",Criminal damage and arson,Violence and sexual offences,"5","28",20.25
+W01001035,"22","5","0","22",Criminal damage and arson,Violence and sexual offences,"11","28",17.6363636363636
+W01000979,"10","5","0","10",Burglary,Violence and sexual offences,"8","28",21.2
+W01000983,"5","4","0","5",Criminal damage and arson,Violence and sexual offences,"11","28",20.8
+W01000985,"1","1","0","1",Other theft,Other theft,"11","11",11
+W01001003,"15","7","0","15",Criminal damage and arson,Violence and sexual offences,"5","28",17.2666666666667
+W01000980,"4","4","0","4",Criminal damage and arson,Vehicle crime,"11","25",15.25
+W01000981,"8","2","0","8",Other theft,Violence and sexual offences,"11","28",25.875
+W01000982,"13","6","0","13",Burglary,Violence and sexual offences,"7","28",14.5384615384615
+W01000984,"3","3","0","3",Drugs,Violence and sexual offences,"5","28",15
+W01000990,"12","4","0","12",Criminal damage and arson,Violence and sexual offences,"5","28",21.3333333333333
+W01001027,"4","4","0","4",Other theft,Violence and sexual offences,"11","28",15.5
+W01001036,"2","2","0","2",Criminal damage and arson,Violence and sexual offences,"25","28",26.5
+W01001919,"1","1","0","1",Public order,Public order,"12","12",12
+W01001920,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001921,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001031,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001032,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001046,"19","5","0","19",Criminal damage and arson,Violence and sexual offences,"11","28",17.9473684210526
+W01001047,"7","3","0","7",Other crime,Violence and sexual offences,"11","28",21
+W01001053,"3","1","0","3",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001029,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001030,"26","5","0","26",Criminal damage and arson,Violence and sexual offences,"11","28",23.6923076923077
+W01001044,"8","4","0","8",Other crime,Violence and sexual offences,"7","28",19
+W01001045,"26","7","0","26",Criminal damage and arson,Violence and sexual offences,"5","28",21.3461538461538
+W01001375,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001429,"1","1","0","1",Vehicle crime,Vehicle crime,"13","13",13
+W01001360,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001402,"1","1","0","1",Public order,Public order,"12","12",12
+W01001395,"1","1","0","1",Other crime,Other crime,"11","11",11
+W01001396,"1","1","0","1",Criminal damage and arson,Criminal damage and arson,"25","25",25
+W01001777,"7","4","0","7",Burglary,Violence and sexual offences,"8","28",22.5714285714286
+W01001778,"3","3","0","3",Criminal damage and arson,Vehicle crime,"11","25",16.3333333333333
+W01001794,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001799,"4","3","0","4",Burglary,Violence and sexual offences,"8","28",22.25
+W01001793,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001795,"1","1","0","1",Other theft,Other theft,"11","11",11
+W01001796,"1","1","0","1",Shoplifting,Shoplifting,"11","11",11
+W01001798,"2","2","0","2",Other theft,Violence and sexual offences,"11","28",19.5
+W01001841,"2","2","0","2",Public order,Violence and sexual offences,"12","28",20
+W01001842,"11","8","0","11",Burglary,Violence and sexual offences,"5","28",13.3636363636364
+W01001844,"3","2","0","3",Shoplifting,Violence and sexual offences,"11","28",16.6666666666667
+W01001849,"2","2","0","2",Burglary,Vehicle crime,"8","13",10.5
+W01001852,"6","2","0","6",Vehicle crime,Violence and sexual offences,"13","28",23
+W01001853,"5","3","0","5",Public order,Violence and sexual offences,"11","28",14.6
+W01001854,"2","2","0","2",Vehicle crime,Violence and sexual offences,"13","28",20.5
+W01001791,"21","8","0","21",Burglary,Violence and sexual offences,"7","28",13.7142857142857
+W01001792,"12","5","0","12",Criminal damage and arson,Violence and sexual offences,"11","28",22.1666666666667
+W01001797,"4","3","0","4",Criminal damage and arson,Violence and sexual offences,"11","28",23
+W01001800,"8","5","0","8",Burglary,Violence and sexual offences,"8","28",20.625
+W01001949,"9","5","0","9",Bicycle theft,Other theft,"8","25",12.3333333333333
+W01001953,"25","5","0","25",Bicycle theft,Violence and sexual offences,"11","28",13.36
+W01001820,"3","3","0","3",Other crime,Violence and sexual offences,"11","28",17
+W01001846,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001847,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001948,"7","4","0","7",Burglary,Violence and sexual offences,"8","28",20.4285714285714
+W01001954,"6","4","0","6",Possession of weapons,Violence and sexual offences,"11","28",18.6666666666667
+W01001802,"9","5","0","9",Other crime,Violence and sexual offences,"11","28",15.2222222222222
+W01001807,"3","3","0","3",Criminal damage and arson,Violence and sexual offences,"12","28",21.6666666666667
+W01001808,"13","3","0","13",Criminal damage and arson,Violence and sexual offences,"11","28",25.1538461538462
+W01001840,"12","5","0","12",Criminal damage and arson,Violence and sexual offences,"5","28",20.0833333333333
+W01001730,"2","2","0","2",Vehicle crime,Violence and sexual offences,"13","28",20.5
+W01001731,"4","2","0","4",Other crime,Public order,"11","12",11.5
+W01001736,"5","4","0","5",Other theft,Vehicle crime,"11","13",12
+W01001815,"1","1","0","1",Public order,Public order,"12","12",12
+W01001811,"13","8","0","13",Criminal damage and arson,Violence and sexual offences,"5","28",20.0769230769231
+W01001816,"28","6","0","28",Burglary,Violence and sexual offences,"8","28",21.3928571428571
+W01001817,"4","3","0","4",Criminal damage and arson,Violence and sexual offences,"12","28",22.5
+W01001818,"4","2","0","4",Other theft,Violence and sexual offences,"11","28",23.75
+W01001888,"6","2","0","6",Criminal damage and arson,Violence and sexual offences,"25","28",26
+W01001893,"13","4","0","13",Criminal damage and arson,Violence and sexual offences,"11","28",21.4615384615385
+W01001894,"6","4","0","6",Other theft,Violence and sexual offences,"11","28",16.8333333333333
+W01001895,"23","7","0","23",Burglary,Violence and sexual offences,"8","28",17
+W01001877,"2","2","0","2",Public order,Vehicle crime,"12","13",12.5
+W01001878,"16","7","0","16",Burglary,Violence and sexual offences,"8","28",14.5625
+W01001882,"5","2","0","5",Vehicle crime,Violence and sexual offences,"13","28",25
+W01001885,"22","4","0","22",Other theft,Violence and sexual offences,"11","28",21.5
+W01001773,"8","4","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",17.25
+W01001848,"1","1","0","1",Criminal damage and arson,Criminal damage and arson,"25","25",25
+W01001850,"13","3","0","13",Burglary,Violence and sexual offences,"8","28",11.8461538461538
+W01001851,"4","3","0","4",Other theft,Violence and sexual offences,"11","28",16.25
+W01001879,"12","7","0","12",Burglary,Violence and sexual offences,"5","28",17
+W01001880,"8","7","0","8",Criminal damage and arson,Violence and sexual offences,"5","28",17.625
+W01001881,"9","3","0","9",Criminal damage and arson,Violence and sexual offences,"12","28",22
+W01001884,"7","3","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",25.1428571428571
+W01001727,"8","4","0","8",Burglary,Violence and sexual offences,"8","28",20.5
+W01001728,"2","2","0","2",Criminal damage and arson,Violence and sexual offences,"25","28",26.5
+W01001729,"13","5","0","13",Other crime,Violence and sexual offences,"11","28",23.6153846153846
+W01001819,"4","3","0","4",Other theft,Violence and sexual offences,"11","28",15.75
+W01001803,"8","2","0","8",Criminal damage and arson,Violence and sexual offences,"25","28",27.25
+W01001804,"4","3","0","4",Criminal damage and arson,Violence and sexual offences,"12","28",23.25
+W01001805,"7","3","0","7",Other theft,Violence and sexual offences,"11","28",23.4285714285714
+W01001806,"21","5","0","21",Criminal damage and arson,Violence and sexual offences,"11","28",14.2380952380952
+W01001866,"16","6","0","16",Criminal damage and arson,Violence and sexual offences,"11","28",21.3125
+W01001867,"7","5","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",18.2857142857143
+W01001883,"18","8","0","18",Burglary,Violence and sexual offences,"8","28",20.4444444444444
+W01001886,"10","6","0","10",Burglary,Public order,"5","25",12.8
+W01001809,"2","1","0","2",Criminal damage and arson,Criminal damage and arson,"25","25",25
+W01001810,"6","3","0","6",Criminal damage and arson,Violence and sexual offences,"5","28",23.1666666666667
+W01001812,"7","6","0","7",Criminal damage and arson,Violence and sexual offences,"5","28",18.7142857142857
+W01001813,"18","3","0","18",Criminal damage and arson,Violence and sexual offences,"12","28",23.7777777777778
+W01001814,"7","5","0","7",Criminal damage and arson,Violence and sexual offences,"5","28",17.7142857142857
+W01001769,"5","3","0","5",Criminal damage and arson,Violence and sexual offences,"13","28",21.4
+W01001770,"44","9","0","44",Bicycle theft,Violence and sexual offences,"5","28",19.5909090909091
+W01001771,"1","1","0","1",Burglary,Burglary,"8","8",8
+W01001774,"1","1","0","1",Shoplifting,Shoplifting,"11","11",11
+W01001732,"7","3","0","7",Shoplifting,Violence and sexual offences,"11","28",14
+W01001733,"6","4","0","6",Criminal damage and arson,Violence and sexual offences,"11","28",19.1666666666667
+W01001734,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001735,"4","2","0","4",Burglary,Violence and sexual offences,"8","28",13
+W01001887,"6","3","0","6",Burglary,Violence and sexual offences,"8","28",22.1666666666667
+W01001889,"8","4","0","8",Criminal damage and arson,Violence and sexual offences,"13","28",24.875
+W01001891,"19","5","0","19",Burglary,Vehicle crime,"8","25",14
+W01001892,"4","3","0","4",Drugs,Violence and sexual offences,"5","28",18.5
+W01001896,"4","4","0","4",Burglary,Violence and sexual offences,"8","28",15
+W01001772,"5","4","0","5",Other theft,Shoplifting,"11","21",13.2
+W01001775,"12","7","0","12",Burglary,Violence and sexual offences,"5","28",19.9166666666667
+W01001776,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001890,"6","4","0","6",Criminal damage and arson,Vehicle crime,"11","25",18.5
+W01001863,"6","4","0","6",Burglary,Violence and sexual offences,"8","28",16.8333333333333
+W01001864,"4","4","0","4",Criminal damage and arson,Violence and sexual offences,"11","28",18.75
+W01001865,"9","4","0","9",Criminal damage and arson,Violence and sexual offences,"11","28",20.3333333333333
+W01001868,"11","4","0","11",Criminal damage and arson,Violence and sexual offences,"11","28",24.4545454545455
+W01001785,"13","4","0","13",Criminal damage and arson,Violence and sexual offences,"12","28",23
+W01001786,"8","6","0","8",Bicycle theft,Violence and sexual offences,"8","28",13.75
+W01001787,"5","2","0","5",Public order,Violence and sexual offences,"12","28",18.4
+W01001788,"14","9","0","14",Bicycle theft,Violence and sexual offences,"8","28",16.7857142857143
+W01001789,"6","5","0","6",Burglary,Violence and sexual offences,"8","28",15
+W01001790,"5","4","0","5",Criminal damage and arson,Violence and sexual offences,"11","28",21
+W01001821,"6","4","0","6",Burglary,Violence and sexual offences,"8","28",19.5
+W01001826,"5","3","0","5",Other crime,Violence and sexual offences,"11","28",18.6
+W01001827,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001828,"6","3","0","6",Criminal damage and arson,Violence and sexual offences,"13","28",25
+W01001755,"39","6","0","39",Burglary,Violence and sexual offences,"8","28",12.5384615384615
+W01001756,"24","8","0","24",Bicycle theft,Violence and sexual offences,"11","28",17.5416666666667
+W01001757,"6","4","0","6",Burglary,Violence and sexual offences,"5","28",18.1666666666667
+W01001758,"5","2","0","5",Drugs,Violence and sexual offences,"5","28",23.4
+W01001780,"9","5","0","9",Bicycle theft,Violence and sexual offences,"11","28",18.8888888888889
+W01001781,"12","6","0","12",Burglary,Violence and sexual offences,"8","28",12.5833333333333
+W01001782,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001783,"5","3","0","5",Bicycle theft,Vehicle crime,"8","13",12
+W01001784,"2","2","0","2",Burglary,Violence and sexual offences,"8","28",18
+W01001747,"17","3","0","17",Burglary,Violence and sexual offences,"8","28",13.8235294117647
+W01001748,"7","3","0","7",Bicycle theft,Violence and sexual offences,"11","28",23.4285714285714
+W01001749,"14","6","0","14",Bicycle theft,Violence and sexual offences,"7","28",21.7142857142857
+W01001751,"13","4","0","13",Burglary,Violence and sexual offences,"8","28",24.8461538461538
+W01001718,"4","3","0","4",Burglary,Violence and sexual offences,"5","28",11.5
+W01001719,"8","3","0","8",Burglary,Violence and sexual offences,"8","28",15.125
+W01001720,"14","8","0","14",Criminal damage and arson,Violence and sexual offences,"5","28",14.5714285714286
+W01001722,"5","5","0","5",Bicycle theft,Violence and sexual offences,"8","28",14.6
+W01001726,"13","6","0","13",Burglary,Violence and sexual offences,"5","28",16.4615384615385
+W01001822,"34","8","0","34",Burglary,Violence and sexual offences,"8","28",15.0588235294118
+W01001823,"13","6","0","13",Burglary,Violence and sexual offences,"8","28",15.0769230769231
+W01001824,"5","4","0","5",Criminal damage and arson,Vehicle crime,"11","25",14.6
+W01001825,"44","9","0","44",Bicycle theft,Violence and sexual offences,"7","28",14.8409090909091
+W01001831,"22","6","0","22",Bicycle theft,Violence and sexual offences,"11","28",14.0909090909091
+W01001836,"13","5","0","13",Burglary,Violence and sexual offences,"8","28",16.3076923076923
+W01001837,"29","8","0","29",Criminal damage and arson,Violence and sexual offences,"5","28",15.7586206896552
+W01001838,"11","5","0","11",Burglary,Violence and sexual offences,"8","28",15.1818181818182
+W01001839,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001750,"14","4","0","14",Burglary,Violence and sexual offences,"8","28",22.9285714285714
+W01001752,"6","5","0","6",Other theft,Violence and sexual offences,"11","28",18.6666666666667
+W01001753,"9","4","0","9",Burglary,Violence and sexual offences,"8","28",22.3333333333333
+W01001754,"9","5","0","9",Bicycle theft,Violence and sexual offences,"13","28",23.2222222222222
+W01001721,"17","6","0","17",Bicycle theft,Violence and sexual offences,"5","28",11.4705882352941
+W01001724,"5","5","0","5",Burglary,Vehicle crime,"5","25",12.4
+W01001725,"8","3","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",25.5
+W01001922,"16","9","0","16",Bicycle theft,Violence and sexual offences,"5","28",15.8125
+W01001829,"4","3","0","4",Criminal damage and arson,Violence and sexual offences,"5","28",21.5
+W01001830,"10","5","0","10",Criminal damage and arson,Violence and sexual offences,"5","28",23.1
+W01001832,"10","5","0","10",Other crime,Violence and sexual offences,"11","28",13.5
+W01001833,"15","6","0","15",Burglary,Violence and sexual offences,"8","28",17
+W01001834,"12","6","0","12",Criminal damage and arson,Violence and sexual offences,"11","28",19.25
+W01001835,"36","8","0","36",Bicycle theft,Violence and sexual offences,"8","28",20.1111111111111
+W01001858,"24","8","0","24",Bicycle theft,Violence and sexual offences,"8","28",13.9583333333333
+W01001859,"11","4","0","11",Burglary,Violence and sexual offences,"8","28",13.8181818181818
+W01001860,"15","4","0","15",Public order,Violence and sexual offences,"11","28",16.1333333333333
+W01001861,"47","8","0","47",Bicycle theft,Violence and sexual offences,"8","28",17.1276595744681
+W01001714,"3","3","0","3",Public order,Violence and sexual offences,"12","28",17.6666666666667
+W01001715,"5","3","0","5",Burglary,Violence and sexual offences,"8","28",20.6
+W01001716,"17","5","0","17",Burglary,Violence and sexual offences,"8","28",19.9411764705882
+W01001717,"9","3","0","9",Burglary,Violence and sexual offences,"8","28",24
+W01001694,"30","9","0","30",Burglary,Violence and sexual offences,"7","28",17.3333333333333
+W01001695,"73","12","0","73",Bicycle theft,Violence and sexual offences,"5","28",17.2328767123288
+W01001696,"19","6","0","19",Criminal damage and arson,Violence and sexual offences,"5","28",23.0526315789474
+W01001697,"28","6","0","28",Criminal damage and arson,Violence and sexual offences,"11","28",13.4642857142857
+W01001698,"18","7","0","18",Bicycle theft,Violence and sexual offences,"11","28",18.8888888888889
+W01001870,"7","4","0","7",Bicycle theft,Violence and sexual offences,"12","28",20.8571428571429
+W01001871,"10","4","0","10",Criminal damage and arson,Violence and sexual offences,"12","28",22.8
+W01001876,"10","3","0","10",Public order,Violence and sexual offences,"12","28",23.3
+W01001869,"3","3","0","3",Bicycle theft,Violence and sexual offences,"12","28",17.6666666666667
+W01001872,"11","4","0","11",Criminal damage and arson,Violence and sexual offences,"11","28",15.0909090909091
+W01001873,"22","8","0","22",Bicycle theft,Violence and sexual offences,"8","28",18
+W01001874,"26","9","0","26",Burglary,Violence and sexual offences,"7","28",20.4230769230769
+W01001737,"11","6","0","11",Burglary,Violence and sexual offences,"8","28",18.3636363636364
+W01001738,"4","2","0","4",Criminal damage and arson,Violence and sexual offences,"25","28",26.5
+W01001739,"8","4","0","8",Criminal damage and arson,Violence and sexual offences,"5","28",22.375
+W01001740,"9","3","0","9",Criminal damage and arson,Violence and sexual offences,"12","28",25.2222222222222
+W01001741,"11","1","0","11",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001710,"19","6","0","19",Burglary,Violence and sexual offences,"8","28",17.1578947368421
+W01001711,"19","8","0","19",Burglary,Violence and sexual offences,"7","28",17
+W01001712,"10","6","0","10",Bicycle theft,Violence and sexual offences,"8","28",14.7
+W01001713,"17","7","0","17",Burglary,Violence and sexual offences,"8","28",16.2352941176471
+W01001704,"16","6","0","16",Burglary,Violence and sexual offences,"8","28",22.0625
+W01001706,"14","6","0","14",Burglary,Violence and sexual offences,"8","28",18.5
+W01001707,"20","5","0","20",Criminal damage and arson,Violence and sexual offences,"11","28",19.4
+W01001746,"10","5","0","10",Other crime,Violence and sexual offences,"11","28",18.4
+W01001855,"8","4","0","8",Drugs,Violence and sexual offences,"5","28",19
+W01001856,"40","9","0","40",Bicycle theft,Violence and sexual offences,"5","28",18.65
+W01001857,"18","7","0","18",Burglary,Violence and sexual offences,"8","28",15.8333333333333
+W01001862,"24","6","0","24",Bicycle theft,Violence and sexual offences,"8","28",19.4583333333333
+W01001742,"28","5","0","28",Burglary,Violence and sexual offences,"8","28",21.2857142857143
+W01001743,"6","2","0","6",Burglary,Violence and sexual offences,"8","28",21.3333333333333
+W01001744,"10","5","0","10",Bicycle theft,Violence and sexual offences,"5","28",18.7
+W01001745,"3","1","0","3",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001764,"22","7","0","22",Bicycle theft,Violence and sexual offences,"7","28",15.5
+W01001765,"12","6","0","12",Bicycle theft,Violence and sexual offences,"8","28",19.4166666666667
+W01001766,"9","4","0","9",Criminal damage and arson,Violence and sexual offences,"12","28",20.7777777777778
+W01001767,"22","9","0","22",Bicycle theft,Violence and sexual offences,"5","28",17.2272727272727
+W01001768,"6","5","0","6",Bicycle theft,Violence and sexual offences,"8","28",13.3333333333333
+W01001702,"9","5","0","9",Criminal damage and arson,Violence and sexual offences,"11","28",22.8888888888889
+W01001703,"11","6","0","11",Criminal damage and arson,Violence and sexual offences,"5","28",20.5454545454545
+W01001705,"19","6","0","19",Burglary,Violence and sexual offences,"8","28",22.5263157894737
+W01001708,"6","2","0","6",Drugs,Violence and sexual offences,"5","28",24.1666666666667
+W01001759,"26","8","0","26",Bicycle theft,Violence and sexual offences,"8","28",15.5384615384615
+W01001760,"9","4","0","9",Bicycle theft,Vehicle crime,"11","25",16.7777777777778
+W01001761,"10","4","0","10",Bicycle theft,Violence and sexual offences,"11","28",20.2
+W01001762,"18","6","0","18",Burglary,Violence and sexual offences,"5","28",16.7222222222222
+W01001940,"9","5","0","9",Bicycle theft,Violence and sexual offences,"12","28",22.2222222222222
+W01001943,"30","9","0","30",Bicycle theft,Violence and sexual offences,"8","28",17.9666666666667
+W01001944,"12","4","0","12",Criminal damage and arson,Violence and sexual offences,"11","28",17.5833333333333
+W01001947,"52","10","0","52",Bicycle theft,Violence and sexual offences,"7","28",17.4230769230769
+W01001699,"16","4","0","16",Criminal damage and arson,Violence and sexual offences,"11","28",22.5
+W01001942,"48","9","0","48",Bicycle theft,Violence and sexual offences,"5","28",16.6875
+W01001946,"9","5","0","9",Burglary,Violence and sexual offences,"8","28",17.4444444444444
+W01001950,"3","3","0","3",Criminal damage and arson,Violence and sexual offences,"11","28",21.3333333333333
+W01001951,"18","7","0","18",Burglary,Violence and sexual offences,"8","28",13.7777777777778
+W01001952,"90","10","0","90",Bicycle theft,Violence and sexual offences,"7","28",16.7666666666667
+W01000656,"2","1","0","2",Drugs,Drugs,"5","5",5
+W01000695,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000665,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000671,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001295,"9","6","0","9",Burglary,Violence and sexual offences,"8","28",14
+W01001296,"5","3","0","5",Other theft,Violence and sexual offences,"11","28",21.6
+W01001297,"32","7","0","32",Criminal damage and arson,Violence and sexual offences,"11","28",18.25
+W01001298,"20","6","0","20",Criminal damage and arson,Violence and sexual offences,"11","28",20.05
+W01001310,"6","4","0","6",Burglary,Violence and sexual offences,"8","28",15.8333333333333
+W01001311,"6","5","0","6",Burglary,Violence and sexual offences,"8","28",16
+W01001291,"9","3","0","9",Criminal damage and arson,Violence and sexual offences,"12","28",25.8888888888889
+W01001294,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001305,"1","1","0","1",Vehicle crime,Vehicle crime,"13","13",13
+W01001306,"14","5","0","14",Burglary,Violence and sexual offences,"8","28",15.2142857142857
+W01001324,"9","5","0","9",Criminal damage and arson,Violence and sexual offences,"11","28",20.3333333333333
+W01001292,"6","3","0","6",Criminal damage and arson,Violence and sexual offences,"11","28",23.6666666666667
+W01001293,"23","8","0","23",Burglary,Violence and sexual offences,"5","28",16.0869565217391
+W01001307,"38","9","0","38",Burglary,Violence and sexual offences,"7","28",16.3947368421053
+W01001315,"59","8","0","59",Burglary,Violence and sexual offences,"5","28",17.6271186440678
+W01001314,"15","4","0","15",Possession of weapons,Violence and sexual offences,"11","28",24.2666666666667
+W01001317,"5","2","0","5",Criminal damage and arson,Violence and sexual offences,"25","28",27.4
+W01001318,"6","4","0","6",Other theft,Violence and sexual offences,"11","28",14.1666666666667
+W01001289,"10","4","0","10",Burglary,Violence and sexual offences,"8","28",24
+W01001302,"4","4","0","4",Criminal damage and arson,Violence and sexual offences,"11","28",19.25
+W01001312,"8","4","0","8",Other theft,Violence and sexual offences,"11","28",15.5
+W01001313,"8","3","0","8",Other theft,Violence and sexual offences,"11","28",23.875
+W01001290,"7","3","0","7",Drugs,Violence and sexual offences,"5","28",19.2857142857143
+W01001319,"3","2","0","3",Public order,Violence and sexual offences,"12","28",22.6666666666667
+W01001320,"2","1","0","2",Criminal damage and arson,Criminal damage and arson,"25","25",25
+W01001321,"5","2","0","5",Criminal damage and arson,Violence and sexual offences,"25","28",27.4
+W01001322,"9","5","0","9",Criminal damage and arson,Violence and sexual offences,"5","28",19.3333333333333
+W01001299,"26","8","0","26",Criminal damage and arson,Violence and sexual offences,"7","28",19.8461538461538
+W01001300,"18","5","0","18",Criminal damage and arson,Violence and sexual offences,"5","28",20.8333333333333
+W01001301,"15","7","0","15",Drugs,Violence and sexual offences,"5","28",21
+W01001308,"8","7","0","8",Criminal damage and arson,Violence and sexual offences,"7","28",16.875
+W01001309,"5","5","0","5",Burglary,Violence and sexual offences,"8","28",17.2
+W01001898,"7","5","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",19.8571428571429
+W01000918,"7","2","0","7",Public order,Violence and sexual offences,"12","28",23.4285714285714
+W01000944,"5","3","0","5",Criminal damage and arson,Violence and sexual offences,"12","28",23.6
+W01000965,"9","2","0","9",Public order,Violence and sexual offences,"12","28",20.8888888888889
+W01000893,"11","4","0","11",Other crime,Violence and sexual offences,"11","28",22
+W01000925,"5","4","0","5",Other crime,Violence and sexual offences,"11","28",14.8
+W01000926,"5","3","0","5",Criminal damage and arson,Violence and sexual offences,"12","28",23.6
+W01000888,"8","4","0","8",Drugs,Violence and sexual offences,"5","28",17
+W01000946,"7","4","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",20.4285714285714
+W01000947,"8","3","0","8",Other crime,Violence and sexual offences,"11","28",23.875
+W01000948,"16","5","0","16",Criminal damage and arson,Violence and sexual offences,"5","28",24.4375
+W01000955,"7","3","0","7",Burglary,Violence and sexual offences,"8","28",24.2857142857143
+W01000956,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000971,"3","3","0","3",Criminal damage and arson,Violence and sexual offences,"12","28",21.6666666666667
+W01000904,"3","2","0","3",Criminal damage and arson,Violence and sexual offences,"25","28",27
+W01000905,"4","3","0","4",Criminal damage and arson,Violence and sexual offences,"13","28",23.5
+W01000908,"5","2","0","5",Public order,Violence and sexual offences,"12","28",24.8
+W01000907,"6","3","0","6",Criminal damage and arson,Violence and sexual offences,"11","28",24.6666666666667
+W01000922,"12","5","0","12",Criminal damage and arson,Violence and sexual offences,"11","28",19.5833333333333
+W01000934,"11","3","0","11",Burglary,Violence and sexual offences,"8","28",25.3636363636364
+W01000935,"15","4","0","15",Criminal damage and arson,Violence and sexual offences,"11","28",24.2666666666667
+W01000938,"7","4","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",22.2857142857143
+W01000939,"42","9","0","42",Bicycle theft,Violence and sexual offences,"5","28",21.4761904761905
+W01000940,"6","3","0","6",Criminal damage and arson,Violence and sexual offences,"12","28",22.1666666666667
+W01000909,"3","2","0","3",Public order,Violence and sexual offences,"12","28",22.6666666666667
+W01000910,"6","4","0","6",Other crime,Violence and sexual offences,"11","28",16.8333333333333
+W01000911,"1","1","0","1",Criminal damage and arson,Criminal damage and arson,"25","25",25
+W01000969,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000912,"11","5","0","11",Drugs,Violence and sexual offences,"5","28",21.0909090909091
+W01000913,"4","3","0","4",Possession of weapons,Violence and sexual offences,"13","28",18.75
+W01000914,"3","3","0","3",Criminal damage and arson,Violence and sexual offences,"12","28",21.6666666666667
+W01000915,"9","4","0","9",Criminal damage and arson,Violence and sexual offences,"11","28",18.5555555555556
+W01000916,"8","4","0","8",Possession of weapons,Violence and sexual offences,"12","28",21.375
+W01000936,"8","4","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",23.125
+W01000941,"11","4","0","11",Burglary,Violence and sexual offences,"8","28",24.7272727272727
+W01000942,"9","4","0","9",Drugs,Violence and sexual offences,"5","28",18.2222222222222
+W01000943,"3","1","0","3",Shoplifting,Shoplifting,"11","11",11
+W01000894,"9","3","0","9",Burglary,Violence and sexual offences,"8","28",25.1111111111111
+W01000895,"9","5","0","9",Criminal damage and arson,Violence and sexual offences,"11","28",18.7777777777778
+W01000896,"11","3","0","11",Possession of weapons,Violence and sexual offences,"13","28",21.9090909090909
+W01000897,"9","3","0","9",Criminal damage and arson,Violence and sexual offences,"12","28",25.8888888888889
+W01000937,"22","5","0","22",Criminal damage and arson,Violence and sexual offences,"11","28",23.4090909090909
+W01000898,"5","3","0","5",Other theft,Violence and sexual offences,"11","28",18.2
+W01000899,"5","2","0","5",Other crime,Violence and sexual offences,"11","28",24.6
+W01000900,"11","2","0","11",Public order,Violence and sexual offences,"12","28",26.5454545454545
+W01000945,"6","4","0","6",Burglary,Violence and sexual offences,"8","28",17.5
+W01000889,"5","2","0","5",Criminal damage and arson,Violence and sexual offences,"25","28",26.8
+W01000890,"2","2","0","2",Other theft,Violence and sexual offences,"11","28",19.5
+W01000891,"3","2","0","3",Public order,Violence and sexual offences,"12","28",22.6666666666667
+W01000892,"2","2","0","2",Criminal damage and arson,Other theft,"11","25",18
+W01000883,"8","3","0","8",Other theft,Violence and sexual offences,"11","28",15.25
+W01000958,"11","4","0","11",Criminal damage and arson,Violence and sexual offences,"7","28",23.8181818181818
+W01000961,"15","3","0","15",Burglary,Violence and sexual offences,"8","28",25.6
+W01000962,"12","7","0","12",Criminal damage and arson,Violence and sexual offences,"11","28",20.9166666666667
+W01000963,"9","5","0","9",Criminal damage and arson,Violence and sexual offences,"5","28",15.7777777777778
+W01000964,"16","3","0","16",Drugs,Violence and sexual offences,"5","28",22.5625
+W01000884,"23","6","0","23",Other crime,Violence and sexual offences,"11","28",17.5217391304348
+W01000885,"15","4","0","15",Criminal damage and arson,Violence and sexual offences,"11","28",24.3333333333333
+W01000886,"29","8","0","29",Criminal damage and arson,Violence and sexual offences,"5","28",18.1034482758621
+W01000957,"11","4","0","11",Other theft,Violence and sexual offences,"11","28",20.5454545454545
+W01000959,"15","7","0","15",Criminal damage and arson,Violence and sexual offences,"5","28",17.8666666666667
+W01000960,"7","4","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",24.1428571428571
+W01000949,"3","2","0","3",Vehicle crime,Violence and sexual offences,"13","28",18
+W01000950,"25","6","0","25",Criminal damage and arson,Violence and sexual offences,"11","28",18.28
+W01000951,"34","7","0","34",Burglary,Violence and sexual offences,"8","28",19.7352941176471
+W01000952,"4","2","0","4",Public order,Violence and sexual offences,"12","28",24
+W01000966,"10","5","0","10",Burglary,Violence and sexual offences,"8","28",16.7
+W01000932,"7","4","0","7",Burglary,Violence and sexual offences,"8","28",19.1428571428571
+W01000933,"12","7","0","12",Other crime,Violence and sexual offences,"7","28",20.25
+W01000967,"31","7","0","31",Criminal damage and arson,Violence and sexual offences,"5","28",20.1290322580645
+W01000968,"10","4","0","10",Burglary,Violence and sexual offences,"8","28",16.6
+W01000919,"4","2","0","4",Public order,Violence and sexual offences,"12","28",24
+W01000927,"9","2","0","9",Public order,Violence and sexual offences,"12","28",22.6666666666667
+W01000928,"8","3","0","8",Public order,Violence and sexual offences,"12","28",24.125
+W01000929,"7","4","0","7",Criminal damage and arson,Violence and sexual offences,"12","28",23.1428571428571
+W01000931,"8","3","0","8",Criminal damage and arson,Violence and sexual offences,"12","28",25.625
+W01000973,"8","4","0","8",Burglary,Violence and sexual offences,"8","28",23.125
+W01001900,"1","1","0","1",Public order,Public order,"12","12",12
+W01000954,"3","3","0","3",Other crime,Violence and sexual offences,"11","28",17
+W01000953,"5","2","0","5",Other crime,Violence and sexual offences,"11","28",24.6
+W01000887,"10","2","0","10",Public order,Violence and sexual offences,"12","28",24.8
+W01000970,"3","2","0","3",Criminal damage and arson,Violence and sexual offences,"25","28",27
+W01000930,"6","3","0","6",Criminal damage and arson,Violence and sexual offences,"12","28",24.8333333333333
+W01000921,"10","5","0","10",Burglary,Violence and sexual offences,"8","28",22.4
+W01001670,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001666,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001897,"2","2","0","2",Other crime,Vehicle crime,"11","13",12
+W01001186,"3","3","0","3",Other theft,Violence and sexual offences,"11","28",16.6666666666667
+W01001187,"6","4","0","6",Criminal damage and arson,Violence and sexual offences,"11","28",22
+W01001188,"12","4","0","12",Criminal damage and arson,Violence and sexual offences,"11","28",23.5833333333333
+W01001221,"8","7","0","8",Criminal damage and arson,Violence and sexual offences,"5","28",15.625
+W01001222,"8","3","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",22.625
+W01001233,"7","5","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",18.4285714285714
+W01001148,"22","6","0","22",Criminal damage and arson,Violence and sexual offences,"11","28",19.0454545454545
+W01001152,"11","5","0","11",Criminal damage and arson,Violence and sexual offences,"11","28",21.9090909090909
+W01001153,"17","6","0","17",Criminal damage and arson,Violence and sexual offences,"11","28",23.4117647058824
+W01001155,"11","4","0","11",Other theft,Violence and sexual offences,"11","28",18.9090909090909
+W01001149,"9","4","0","9",Other crime,Violence and sexual offences,"11","28",20.6666666666667
+W01001150,"25","5","0","25",Criminal damage and arson,Violence and sexual offences,"11","28",24.88
+W01001151,"8","4","0","8",Other crime,Violence and sexual offences,"11","28",19.75
+W01001154,"18","7","0","18",Burglary,Violence and sexual offences,"5","28",20.2777777777778
+W01001156,"4","2","0","4",Public order,Violence and sexual offences,"12","28",24
+W01001147,"9","5","0","9",Burglary,Violence and sexual offences,"8","28",20.4444444444444
+W01001168,"11","3","0","11",Criminal damage and arson,Violence and sexual offences,"12","28",23.0909090909091
+W01001169,"31","8","0","31",Burglary,Violence and sexual offences,"5","28",19.258064516129
+W01001170,"5","3","0","5",Shoplifting,Violence and sexual offences,"11","28",21.6
+W01001137,"12","4","0","12",Criminal damage and arson,Violence and sexual offences,"5","28",23.3333333333333
+W01001138,"13","5","0","13",Burglary,Violence and sexual offences,"8","28",21
+W01001139,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001140,"5","3","0","5",Other crime,Violence and sexual offences,"11","28",21.2
+W01001141,"7","3","0","7",Criminal damage and arson,Violence and sexual offences,"13","28",23.2857142857143
+W01001142,"10","6","0","10",Other crime,Violence and sexual offences,"11","28",15.6
+W01001204,"4","3","0","4",Drugs,Violence and sexual offences,"5","28",18.25
+W01001205,"12","2","0","12",Other crime,Violence and sexual offences,"11","28",23.75
+W01001206,"6","3","0","6",Other crime,Violence and sexual offences,"11","28",22.5
+W01001207,"7","2","0","7",Other theft,Violence and sexual offences,"11","28",25.5714285714286
+W01001208,"7","5","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",20.4285714285714
+W01001265,"9","5","0","9",Burglary,Violence and sexual offences,"8","28",18.3333333333333
+W01001266,"12","4","0","12",Drugs,Violence and sexual offences,"5","28",19.5
+W01001267,"7","3","0","7",Criminal damage and arson,Violence and sexual offences,"5","28",24.2857142857143
+W01001268,"5","3","0","5",Bicycle theft,Violence and sexual offences,"12","28",21.8
+W01001209,"11","4","0","11",Criminal damage and arson,Violence and sexual offences,"5","28",24.0909090909091
+W01001210,"14","5","0","14",Criminal damage and arson,Violence and sexual offences,"5","28",16.7142857142857
+W01001211,"10","2","0","10",Other theft,Violence and sexual offences,"11","28",26.3
+W01001212,"5","2","0","5",Public order,Violence and sexual offences,"12","28",24.8
+W01001175,"7","5","0","7",Burglary,Violence and sexual offences,"5","28",17.1428571428571
+W01001177,"2","2","0","2",Vehicle crime,Violence and sexual offences,"13","28",20.5
+W01001202,"7","3","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",24.7142857142857
+W01001203,"8","3","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",25.5
+W01001269,"3","3","0","3",Criminal damage and arson,Shoplifting,"11","25",15.6666666666667
+W01001270,"6","3","0","6",Public order,Violence and sexual offences,"11","28",22.5
+W01001271,"5","2","0","5",Criminal damage and arson,Violence and sexual offences,"25","28",27.4
+W01001272,"9","4","0","9",Drugs,Violence and sexual offences,"5","28",21.7777777777778
+W01001273,"9","4","0","9",Burglary,Violence and sexual offences,"8","28",23.6666666666667
+W01001214,"3","2","0","3",Other theft,Violence and sexual offences,"11","28",16.6666666666667
+W01001216,"7","2","0","7",Burglary,Violence and sexual offences,"8","28",19.4285714285714
+W01001143,"6","4","0","6",Other crime,Violence and sexual offences,"11","28",19.6666666666667
+W01001144,"13","3","0","13",Burglary,Violence and sexual offences,"8","28",20
+W01001145,"11","4","0","11",Criminal damage and arson,Violence and sexual offences,"12","28",23.5454545454545
+W01001146,"3","1","0","3",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001176,"10","3","0","10",Other theft,Violence and sexual offences,"11","28",24.8
+W01001274,"11","5","0","11",Criminal damage and arson,Violence and sexual offences,"5","28",22.5454545454545
+W01001275,"9","3","0","9",Other theft,Violence and sexual offences,"11","28",20.6666666666667
+W01001276,"11","3","0","11",Criminal damage and arson,Violence and sexual offences,"12","28",26
+W01001260,"10","4","0","10",Criminal damage and arson,Violence and sexual offences,"5","28",23.3
+W01001285,"6","3","0","6",Public order,Violence and sexual offences,"12","28",21.5
+W01001286,"4","2","0","4",Public order,Violence and sexual offences,"12","28",20
+W01001287,"9","4","0","9",Criminal damage and arson,Violence and sexual offences,"7","28",21.7777777777778
+W01001288,"5","3","0","5",Criminal damage and arson,Violence and sexual offences,"11","28",24
+W01001180,"11","3","0","11",Criminal damage and arson,Violence and sexual offences,"12","28",24.5454545454545
+W01001181,"9","4","0","9",Burglary,Violence and sexual offences,"8","28",23.6666666666667
+W01001282,"9","4","0","9",Burglary,Violence and sexual offences,"8","28",16.7777777777778
+W01001283,"5","4","0","5",Other theft,Violence and sexual offences,"11","28",18.4
+W01001166,"3","3","0","3",Criminal damage and arson,Violence and sexual offences,"11","28",21.3333333333333
+W01001247,"3","3","0","3",Other theft,Violence and sexual offences,"11","28",17
+W01001248,"12","3","0","12",Public order,Violence and sexual offences,"11","28",21.1666666666667
+W01001171,"2","2","0","2",Drugs,Vehicle crime,"5","13",9
+W01001229,"8","5","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",17.5
+W01001230,"10","3","0","10",Other theft,Violence and sexual offences,"11","28",23.1
+W01001231,"12","6","0","12",Criminal damage and arson,Violence and sexual offences,"11","28",20.25
+W01001280,"6","3","0","6",Public order,Violence and sexual offences,"11","28",22.5
+W01001281,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001217,"10","2","0","10",Other crime,Violence and sexual offences,"11","28",26.3
+W01001218,"14","6","0","14",Burglary,Violence and sexual offences,"8","28",21.4285714285714
+W01001219,"7","4","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",22.8571428571429
+W01001220,"7","2","0","7",Drugs,Violence and sexual offences,"5","28",24.7142857142857
+W01001259,"9","3","0","9",Drugs,Violence and sexual offences,"5","28",21
+W01001261,"3","3","0","3",Other crime,Violence and sexual offences,"11","28",16.6666666666667
+W01001164,"8","3","0","8",Criminal damage and arson,Violence and sexual offences,"21","28",26.375
+W01001165,"7","3","0","7",Criminal damage and arson,Violence and sexual offences,"12","28",23
+W01001257,"5","3","0","5",Burglary,Violence and sexual offences,"8","28",21
+W01001258,"12","6","0","12",Burglary,Violence and sexual offences,"8","28",18
+W01001172,"4","2","0","4",Vehicle crime,Violence and sexual offences,"13","28",16.75
+W01001173,"16","4","0","16",Criminal damage and arson,Violence and sexual offences,"11","28",26.3125
+W01001174,"14","4","0","14",Burglary,Violence and sexual offences,"8","28",20.7142857142857
+W01001232,"29","6","0","29",Criminal damage and arson,Violence and sexual offences,"5","28",24.2413793103448
+W01001227,"3","3","0","3",Drugs,Vehicle crime,"5","13",10
+W01001228,"29","7","0","29",Burglary,Violence and sexual offences,"5","28",16.7931034482759
+W01001234,"8","1","0","8",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001235,"3","1","0","3",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001236,"6","3","0","6",Public order,Vehicle crime,"11","13",12
+W01001185,"7","3","0","7",Burglary,Violence and sexual offences,"8","28",20.5714285714286
+W01001237,"10","4","0","10",Burglary,Violence and sexual offences,"8","28",17.8
+W01001238,"11","4","0","11",Other crime,Violence and sexual offences,"11","28",21.9090909090909
+W01001262,"8","3","0","8",Other theft,Violence and sexual offences,"11","28",19.5
+W01001263,"9","4","0","9",Burglary,Violence and sexual offences,"8","28",15.5555555555556
+W01001264,"8","3","0","8",Burglary,Violence and sexual offences,"8","28",17
+W01001178,"4","2","0","4",Criminal damage and arson,Violence and sexual offences,"25","28",27.25
+W01001179,"10","4","0","10",Criminal damage and arson,Violence and sexual offences,"11","28",24.4
+W01001253,"7","5","0","7",Burglary,Violence and sexual offences,"5","28",19.2857142857143
+W01001255,"12","4","0","12",Burglary,Violence and sexual offences,"8","28",23.4166666666667
+W01001914,"8","3","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",25.5
+W01001917,"9","4","0","9",Drugs,Violence and sexual offences,"5","28",16.4444444444444
+W01001249,"8","5","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",19.5
+W01001250,"3","1","0","3",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001251,"9","3","0","9",Drugs,Violence and sexual offences,"5","28",21.6666666666667
+W01001252,"4","2","0","4",Criminal damage and arson,Violence and sexual offences,"25","28",27.25
+W01001162,"7","3","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",20.2857142857143
+W01001244,"6","4","0","6",Other theft,Violence and sexual offences,"11","28",14.1666666666667
+W01001246,"4","2","0","4",Public order,Violence and sexual offences,"12","28",24
+W01001184,"16","5","0","16",Burglary,Violence and sexual offences,"8","28",16.25
+W01001239,"10","4","0","10",Other theft,Violence and sexual offences,"11","28",18.3
+W01001240,"23","6","0","23",Other crime,Violence and sexual offences,"11","28",17.6521739130435
+W01001241,"25","5","0","25",Burglary,Violence and sexual offences,"8","28",17.84
+W01001196,"3","2","0","3",Public order,Violence and sexual offences,"12","28",22.6666666666667
+W01001198,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001199,"2","2","0","2",Criminal damage and arson,Violence and sexual offences,"25","28",26.5
+W01001915,"8","3","0","8",Burglary,Violence and sexual offences,"8","28",23.375
+W01001916,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001157,"3","2","0","3",Public order,Violence and sexual offences,"12","28",17.3333333333333
+W01001158,"13","4","0","13",Criminal damage and arson,Violence and sexual offences,"11","28",19.0769230769231
+W01001159,"4","3","0","4",Burglary,Other theft,"8","11",10.25
+W01001277,"9","4","0","9",Other theft,Violence and sexual offences,"11","28",22.4444444444444
+W01001279,"5","3","0","5",Criminal damage and arson,Violence and sexual offences,"11","28",24
+W01001160,"3","2","0","3",Public order,Violence and sexual offences,"12","28",22.6666666666667
+W01001189,"7","2","0","7",Public order,Violence and sexual offences,"12","28",21.1428571428571
+W01001190,"18","8","0","18",Criminal damage and arson,Violence and sexual offences,"5","28",21.6666666666667
+W01001193,"2","1","0","2",Shoplifting,Shoplifting,"11","11",11
+W01001194,"4","4","0","4",Drugs,Violence and sexual offences,"5","28",14
+W01001195,"8","3","0","8",Other theft,Violence and sexual offences,"11","28",21.75
+W01001242,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001243,"22","6","0","22",Criminal damage and arson,Violence and sexual offences,"5","28",17.2272727272727
+W01001192,"3","2","0","3",Public order,Violence and sexual offences,"12","28",22.6666666666667
+W01001223,"2","2","0","2",Burglary,Criminal damage and arson,"8","25",16.5
+W01001225,"3","1","0","3",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001226,"4","3","0","4",Other theft,Violence and sexual offences,"11","28",17.75
+W01000845,"12","4","0","12",Criminal damage and arson,Violence and sexual offences,"11","28",20.9166666666667
+W01000846,"13","7","0","13",Burglary,Violence and sexual offences,"7","28",18
+W01000847,"4","2","0","4",Criminal damage and arson,Violence and sexual offences,"25","28",27.25
+W01000848,"6","2","0","6",Vehicle crime,Violence and sexual offences,"13","28",23
+W01000750,"3","3","0","3",Burglary,Violence and sexual offences,"8","28",16
+W01000751,"8","4","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",21.5
+W01000752,"13","4","0","13",Criminal damage and arson,Violence and sexual offences,"5","28",20.8461538461538
+W01000753,"11","4","0","11",Criminal damage and arson,Violence and sexual offences,"11","28",23.2727272727273
+W01000754,"7","7","0","7",Criminal damage and arson,Violence and sexual offences,"5","28",15
+W01000803,"3","3","0","3",Criminal damage and arson,Violence and sexual offences,"11","28",21.3333333333333
+W01000806,"10","6","0","10",Burglary,Violence and sexual offences,"5","28",15.9
+W01000807,"7","2","0","7",Public order,Violence and sexual offences,"12","28",23.4285714285714
+W01000808,"2","2","0","2",Drugs,Other theft,"5","11",8
+W01000810,"8","3","0","8",Criminal damage and arson,Violence and sexual offences,"12","28",25.625
+W01000815,"5","3","0","5",Other crime,Violence and sexual offences,"11","28",21.2
+W01000816,"11","5","0","11",Other crime,Violence and sexual offences,"11","28",22.0909090909091
+W01000791,"4","2","0","4",Vehicle crime,Violence and sexual offences,"13","28",20.5
+W01000792,"6","5","0","6",Criminal damage and arson,Violence and sexual offences,"11","28",19.1666666666667
+W01000793,"9","5","0","9",Burglary,Violence and sexual offences,"8","28",18.4444444444444
+W01000837,"5","3","0","5",Criminal damage and arson,Violence and sexual offences,"11","28",20.6
+W01000838,"5","3","0","5",Other crime,Violence and sexual offences,"11","28",21.4
+W01000774,"5","3","0","5",Criminal damage and arson,Violence and sexual offences,"11","28",23.4
+W01000841,"5","3","0","5",Other theft,Violence and sexual offences,"11","28",21.4
+W01000842,"8","5","0","8",Criminal damage and arson,Violence and sexual offences,"5","28",16.25
+W01000843,"4","3","0","4",Public order,Violence and sexual offences,"12","28",16.25
+W01000844,"10","6","0","10",Burglary,Violence and sexual offences,"5","28",18.7
+W01000795,"5","5","0","5",Burglary,Violence and sexual offences,"8","28",18.6
+W01000800,"4","3","0","4",Other theft,Violence and sexual offences,"11","28",19.75
+W01000801,"8","3","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",24.75
+W01000784,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000785,"2","2","0","2",Other crime,Other theft,"11","11",11
+W01000786,"3","2","0","3",Other theft,Violence and sexual offences,"11","28",22.3333333333333
+W01000802,"6","2","0","6",Other theft,Violence and sexual offences,"11","28",25.1666666666667
+W01000877,"2","2","0","2",Public order,Violence and sexual offences,"12","28",20
+W01000878,"3","1","0","3",Other theft,Other theft,"11","11",11
+W01000809,"8","4","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",19.625
+W01000811,"9","5","0","9",Criminal damage and arson,Violence and sexual offences,"11","28",19
+W01000812,"26","7","0","26",Burglary,Violence and sexual offences,"5","28",19.8846153846154
+W01000813,"11","6","0","11",Criminal damage and arson,Violence and sexual offences,"11","28",19.6363636363636
+W01000814,"4","4","0","4",Bicycle theft,Violence and sexual offences,"12","28",19.5
+W01000817,"28","7","0","28",Burglary,Violence and sexual offences,"8","28",19.8214285714286
+W01000818,"5","3","0","5",Criminal damage and arson,Violence and sexual offences,"13","28",18.4
+W01000819,"7","6","0","7",Burglary,Violence and sexual offences,"8","28",15.5714285714286
+W01000820,"19","6","0","19",Criminal damage and arson,Violence and sexual offences,"11","28",17.2105263157895
+W01000821,"2","2","0","2",Criminal damage and arson,Violence and sexual offences,"25","28",26.5
+W01000822,"3","2","0","3",Other theft,Vehicle crime,"11","13",12.3333333333333
+W01000794,"44","10","0","44",Bicycle theft,Violence and sexual offences,"7","28",15.4772727272727
+W01000797,"4","3","0","4",Criminal damage and arson,Violence and sexual offences,"12","28",23.25
+W01000798,"6","4","0","6",Criminal damage and arson,Public order,"11","25",13.8333333333333
+W01000799,"9","4","0","9",Other crime,Violence and sexual offences,"11","28",21.7777777777778
+W01000830,"12","6","0","12",Drugs,Violence and sexual offences,"5","28",20.1666666666667
+W01000832,"19","8","0","19",Burglary,Violence and sexual offences,"5","28",19.0526315789474
+W01000833,"17","7","0","17",Burglary,Violence and sexual offences,"5","28",16
+W01000834,"11","5","0","11",Criminal damage and arson,Violence and sexual offences,"5","28",21.1818181818182
+W01000836,"22","7","0","22",Criminal damage and arson,Violence and sexual offences,"11","28",20.5
+W01000759,"4","1","0","4",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000777,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000778,"9","4","0","9",Criminal damage and arson,Violence and sexual offences,"5","28",21.3333333333333
+W01000779,"10","5","0","10",Burglary,Violence and sexual offences,"8","28",22.3
+W01000760,"20","7","0","20",Burglary,Violence and sexual offences,"8","28",13.9
+W01000761,"6","4","0","6",Criminal damage and arson,Violence and sexual offences,"11","28",19.3333333333333
+W01000762,"10","7","0","10",Criminal damage and arson,Violence and sexual offences,"5","28",19.9
+W01000831,"14","6","0","14",Criminal damage and arson,Violence and sexual offences,"11","28",22.9285714285714
+W01000835,"4","3","0","4",Public order,Violence and sexual offences,"12","28",16.5
+W01000738,"10","4","0","10",Criminal damage and arson,Violence and sexual offences,"12","28",24.6
+W01000739,"7","5","0","7",Criminal damage and arson,Vehicle crime,"11","25",15.4285714285714
+W01000740,"3","2","0","3",Shoplifting,Violence and sexual offences,"11","28",22.3333333333333
+W01000741,"33","8","0","33",Burglary,Violence and sexual offences,"5","28",17
+W01000763,"9","4","0","9",Drugs,Violence and sexual offences,"5","28",17.3333333333333
+W01000764,"5","3","0","5",Public order,Violence and sexual offences,"11","28",21.4
+W01000765,"7","3","0","7",Other theft,Shoplifting,"11","12",11.1428571428571
+W01000766,"3","2","0","3",Other crime,Violence and sexual offences,"11","28",22.3333333333333
+W01000767,"18","7","0","18",Criminal damage and arson,Violence and sexual offences,"5","28",18.8333333333333
+W01000742,"19","5","0","19",Drugs,Violence and sexual offences,"5","28",22.6315789473684
+W01000744,"21","5","0","21",Criminal damage and arson,Violence and sexual offences,"11","28",22.0952380952381
+W01000787,"15","7","0","15",Criminal damage and arson,Violence and sexual offences,"11","28",23.4666666666667
+W01000788,"15","5","0","15",Drugs,Violence and sexual offences,"5","28",16.8
+W01000789,"10","3","0","10",Public order,Violence and sexual offences,"12","28",21.8
+W01000790,"20","5","0","20",Bicycle theft,Violence and sexual offences,"5","28",23.85
+W01000755,"17","4","0","17",Other theft,Violence and sexual offences,"11","28",16.1176470588235
+W01000756,"19","5","0","19",Criminal damage and arson,Violence and sexual offences,"11","28",22.7368421052632
+W01000757,"12","6","0","12",Drugs,Violence and sexual offences,"5","28",18.6666666666667
+W01000758,"9","5","0","9",Criminal damage and arson,Violence and sexual offences,"5","28",19.8888888888889
+W01000772,"5","1","0","5",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000829,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000862,"6","2","0","6",Criminal damage and arson,Violence and sexual offences,"25","28",27.5
+W01000863,"12","5","0","12",Criminal damage and arson,Violence and sexual offences,"11","28",23
+W01000864,"4","3","0","4",Other crime,Violence and sexual offences,"11","28",19.75
+W01000865,"4","3","0","4",Bicycle theft,Violence and sexual offences,"13","28",22.75
+W01000866,"12","5","0","12",Drugs,Violence and sexual offences,"5","28",18.1666666666667
+W01000867,"8","3","0","8",Other theft,Violence and sexual offences,"11","28",21.875
+W01000849,"10","5","0","10",Criminal damage and arson,Violence and sexual offences,"5","28",20.2
+W01000851,"4","2","0","4",Criminal damage and arson,Violence and sexual offences,"25","28",25.75
+W01000852,"26","5","0","26",Other crime,Violence and sexual offences,"11","28",12.6538461538462
+W01000853,"9","4","0","9",Other theft,Violence and sexual offences,"11","28",20.8888888888889
+W01000854,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000855,"1","1","0","1",Other theft,Other theft,"11","11",11
+W01000856,"11","2","0","11",Public order,Violence and sexual offences,"12","28",25.0909090909091
+W01000857,"9","5","0","9",Burglary,Violence and sexual offences,"8","28",21.7777777777778
+W01000747,"11","4","0","11",Burglary,Violence and sexual offences,"8","28",17.0909090909091
+W01000868,"1","1","0","1",Public order,Public order,"12","12",12
+W01000869,"10","5","0","10",Criminal damage and arson,Violence and sexual offences,"11","28",21.2
+W01000870,"3","2","0","3",Public order,Violence and sexual offences,"12","28",22.6666666666667
+W01000874,"22","9","0","22",Burglary,Violence and sexual offences,"5","28",17.8181818181818
+W01000745,"89","9","0","89",Criminal damage and arson,Violence and sexual offences,"5","28",18.8876404494382
+W01000746,"8","5","0","8",Burglary,Violence and sexual offences,"8","28",17.375
+W01001955,"208","13","0","208",Bicycle theft,Violence and sexual offences,"5","28",17.8125
+W01001958,"33","6","0","33",Criminal damage and arson,Violence and sexual offences,"11","28",13.3030303030303
+W01000749,"37","9","0","37",Bicycle theft,Violence and sexual offences,"5","28",20.9189189189189
+W01000871,"7","4","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",20.1428571428571
+W01000873,"16","3","0","16",Criminal damage and arson,Violence and sexual offences,"11","28",22.3125
+W01000875,"8","3","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",23.375
+W01000876,"1","1","0","1",Public order,Public order,"12","12",12
+W01000858,"3","3","0","3",Drugs,Violence and sexual offences,"5","28",15.3333333333333
+W01000859,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000860,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000861,"6","5","0","6",Drugs,Violence and sexual offences,"5","28",13.5
+W01000736,"5","3","0","5",Bicycle theft,Shoplifting,"11","13",11.4
+W01000737,"2","2","0","2",Burglary,Violence and sexual offences,"8","28",18
+W01000804,"4","2","0","4",Criminal damage and arson,Other theft,"11","25",21.5
+W01000879,"10","2","0","10",Criminal damage and arson,Violence and sexual offences,"25","28",25.3
+W01000880,"6","4","0","6",Other theft,Violence and sexual offences,"11","28",20
+W01000881,"16","6","0","16",Burglary,Violence and sexual offences,"8","28",15.75
+W01000882,"11","5","0","11",Burglary,Violence and sexual offences,"8","28",19.7272727272727
+W01000775,"3","1","0","3",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01000776,"6","4","0","6",Criminal damage and arson,Violence and sexual offences,"13","28",23.8333333333333
+W01000840,"1","1","0","1",Drugs,Drugs,"5","5",5
+W01000824,"2","2","0","2",Vehicle crime,Violence and sexual offences,"13","28",20.5
+W01000825,"7","4","0","7",Public order,Violence and sexual offences,"11","28",16.2857142857143
+W01000826,"4","3","0","4",Bicycle theft,Violence and sexual offences,"13","28",23.5
+W01000827,"9","5","0","9",Criminal damage and arson,Violence and sexual offences,"11","28",20.3333333333333
+W01000768,"2","2","0","2",Burglary,Public order,"8","12",10
+W01001956,"7","5","0","7",Criminal damage and arson,Violence and sexual offences,"11","28",18.4285714285714
+W01000770,"3","2","0","3",Public order,Violence and sexual offences,"12","28",22.6666666666667
+W01000782,"2","2","0","2",Vehicle crime,Violence and sexual offences,"13","28",20.5
+W01000771,"1","1","0","1",Other crime,Other crime,"11","11",11
+W01001488,"1","1","0","1",Other theft,Other theft,"11","11",11
+W01001517,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001105,"7","5","0","7",Burglary,Violence and sexual offences,"8","28",19.2857142857143
+W01001128,"4","3","0","4",Other crime,Violence and sexual offences,"11","28",19.75
+W01001082,"12","5","0","12",Burglary,Violence and sexual offences,"8","28",23.0833333333333
+W01001083,"3","2","0","3",Criminal damage and arson,Violence and sexual offences,"25","28",27
+W01001084,"8","4","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",21.25
+W01001085,"2","2","0","2",Other theft,Violence and sexual offences,"11","28",19.5
+W01001113,"10","6","0","10",Criminal damage and arson,Violence and sexual offences,"11","28",16.2
+W01001119,"2","2","0","2",Criminal damage and arson,Violence and sexual offences,"25","28",26.5
+W01001135,"5","4","0","5",Burglary,Vehicle crime,"8","13",11
+W01001136,"21","7","0","21",Burglary,Violence and sexual offences,"8","28",18.9047619047619
+W01001075,"3","2","0","3",Vehicle crime,Violence and sexual offences,"13","28",23
+W01001076,"13","7","0","13",Criminal damage and arson,Violence and sexual offences,"11","28",17.0769230769231
+W01001077,"7","4","0","7",Bicycle theft,Violence and sexual offences,"11","28",21.1428571428571
+W01001078,"1","1","0","1",Criminal damage and arson,Criminal damage and arson,"25","25",25
+W01001104,"28","6","0","28",Criminal damage and arson,Violence and sexual offences,"11","28",22.5
+W01001129,"7","4","0","7",Bicycle theft,Violence and sexual offences,"12","28",23.1428571428571
+W01001116,"2","2","0","2",Other theft,Vehicle crime,"11","13",12
+W01001123,"10","7","0","10",Burglary,Violence and sexual offences,"8","28",17.7
+W01001124,"15","6","0","15",Other crime,Violence and sexual offences,"11","28",20.3333333333333
+W01001125,"14","8","0","14",Criminal damage and arson,Violence and sexual offences,"11","28",18.2142857142857
+W01001130,"7","3","0","7",Bicycle theft,Vehicle crime,"8","13",11.5714285714286
+W01001086,"6","4","0","6",Criminal damage and arson,Violence and sexual offences,"11","28",19.3333333333333
+W01001087,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001088,"15","7","0","15",Burglary,Violence and sexual offences,"8","28",12.9333333333333
+W01001089,"2","2","0","2",Other crime,Other theft,"11","11",11
+W01001090,"4","3","0","4",Criminal damage and arson,Other theft,"11","25",18
+W01001081,"5","4","0","5",Bicycle theft,Violence and sexual offences,"13","28",21.4
+W01001092,"4","2","0","4",Burglary,Violence and sexual offences,"8","28",23
+W01001094,"6","4","0","6",Criminal damage and arson,Violence and sexual offences,"12","28",22.3333333333333
+W01001095,"16","7","0","16",Burglary,Violence and sexual offences,"8","28",21.25
+W01001096,"4","3","0","4",Public order,Violence and sexual offences,"12","28",16.25
+W01001097,"13","4","0","13",Criminal damage and arson,Violence and sexual offences,"12","28",21.6923076923077
+W01001114,"1","1","0","1",Public order,Public order,"12","12",12
+W01001115,"3","2","0","3",Criminal damage and arson,Other theft,"11","25",20.3333333333333
+W01001131,"10","6","0","10",Bicycle theft,Violence and sexual offences,"7","28",20.6
+W01001132,"6","3","0","6",Other crime,Violence and sexual offences,"11","28",22.5
+W01001133,"10","4","0","10",Burglary,Violence and sexual offences,"8","28",20.7
+W01001134,"7","4","0","7",Burglary,Vehicle crime,"8","25",12.2857142857143
+W01001067,"14","6","0","14",Burglary,Violence and sexual offences,"8","28",18.3571428571429
+W01001068,"8","4","0","8",Criminal damage and arson,Violence and sexual offences,"11","28",24.625
+W01001070,"16","7","0","16",Burglary,Violence and sexual offences,"7","28",20.8125
+W01001071,"15","7","0","15",Burglary,Violence and sexual offences,"8","28",16.4
+W01001072,"7","4","0","7",Other theft,Violence and sexual offences,"11","28",21
+W01001091,"1","1","0","1",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001100,"2","2","0","2",Public order,Violence and sexual offences,"12","28",20
+W01001103,"10","4","0","10",Criminal damage and arson,Violence and sexual offences,"11","28",24.4
+W01001106,"7","4","0","7",Other crime,Violence and sexual offences,"11","28",17.2857142857143
+W01001107,"5","5","0","5",Bicycle theft,Violence and sexual offences,"11","28",15
+W01001109,"2","2","0","2",Other theft,Public order,"11","12",11.5
+W01001110,"6","3","0","6",Criminal damage and arson,Violence and sexual offences,"12","28",24.3333333333333
+W01001111,"4","2","0","4",Other theft,Public order,"11","12",11.25
+W01001112,"2","1","0","2",Violence and sexual offences,Violence and sexual offences,"28","28",28
+W01001063,"17","5","0","17",Burglary,Violence and sexual offences,"8","28",19.8235294117647
+W01001065,"14","3","0","14",Criminal damage and arson,Violence and sexual offences,"11","28",24.5
+W01001069,"12","7","0","12",Criminal damage and arson,Violence and sexual offences,"5","28",16.6666666666667
+W01001079,"21","4","0","21",Criminal damage and arson,Violence and sexual offences,"12","28",24.4761904761905
+W01001080,"8","5","0","8",Burglary,Violence and sexual offences,"5","28",20.25
+W01001910,"54","8","0","54",Burglary,Violence and sexual offences,"5","28",16.6481481481481
+W01001911,"6","3","0","6",Criminal damage and arson,Violence and sexual offences,"11","28",24.6666666666667
+W01001062,"11","4","0","11",Criminal damage and arson,Violence and sexual offences,"11","28",20.1818181818182
+W01001064,"13","4","0","13",Criminal damage and arson,Violence and sexual offences,"11","28",16.1538461538462
+W01001093,"9","4","0","9",Bicycle theft,Violence and sexual offences,"11","28",22.6666666666667
+W01001099,"10","2","0","10",Shoplifting,Violence and sexual offences,"11","28",21.2
+W01001101,"6","3","0","6",Drugs,Violence and sexual offences,"5","28",21.5
+W01001102,"12","5","0","12",Criminal damage and arson,Violence and sexual offences,"11","28",16.25
+W01001108,"8","3","0","8",Criminal damage and arson,Violence and sexual offences,"12","28",25.25
+W01001117,"14","4","0","14",Criminal damage and arson,Violence and sexual offences,"11","28",19.1428571428571
+W01001120,"2","2","0","2",Vehicle crime,Violence and sexual offences,"13","28",20.5
+W01001121,"8","3","0","8",Criminal damage and arson,Violence and sexual offences,"12","28",25.25
+W01001122,"13","7","0","13",Burglary,Violence and sexual offences,"5","28",19.1538461538462
+W01001059,"5","5","0","5",Burglary,Violence and sexual offences,"8","28",16.8
+W01001060,"2","2","0","2",Drugs,Violence and sexual offences,"5","28",16.5
+W01001066,"49","4","0","49",Drugs,Violence and sexual offences,"5","28",15.1632653061224
+W01001073,"27","7","0","27",Criminal damage and arson,Violence and sexual offences,"5","28",21.2222222222222
